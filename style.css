@@ -98,7 +98,7 @@ form > input {
 .opBtn:hover {
   background-color: rgba(241, 85, 18, 0.726);
 }
-#del {
+#clear {
   grid-column: 1 / span 2;
 }
 
